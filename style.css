@@ -1,0 +1,12 @@
+body {
+display: flex;
+flex-direction: column;
+height: 98%;
+width: 100%;
+overflow: hidden;
+}
+
+textarea {
+flex: 1 1 auto;
+}
+
